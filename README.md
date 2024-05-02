@@ -1,6 +1,16 @@
 # **Sempe Oniel Phoole Data Analyst/Scientist/Engineer Portfolio**
 
-About
+👋 Hello! Welcome to my GitHub profile!
+
+I'm passionate about data and its transformative power. Currently, I'm on a journey to become a skilled Data Analyst/Scientist/Engineer, and this GitHub serves as a platform to showcase my projects and progress.
+
+**🔍 Exploring the Data Universe:** From uncovering hidden patterns to deriving actionable insights, I dive deep into datasets to extract meaningful information. Whether it's analyzing movie ratings, investigating COVID-19 trends, or exploring financial datasets, I'm always eager to discover the stories behind the numbers.
+
+**💻 Building a Portfolio:** One project at a time, I'm building my portfolio as a Data Analyst/Scientist/Engineer. Each repository represents a step forward in my journey, showcasing my skills in data analysis, visualization, machine learning, and more.
+
+**📈 Driven by Curiosity:** Curiosity fuels my passion for data. I love asking questions, exploring hypotheses, and finding innovative ways to solve problems using data-driven approaches. Every project is an opportunity to learn something new and push the boundaries of my knowledge.
+
+**🚀 Onward and Upward:** My GitHub journey is just beginning, and I'm excited to see where it takes me. Whether you're a fellow data enthusiast, a potential collaborator, or someone interested in the world of data, I invite you to explore my projects and join me on this exciting adventure!
 
 ## **Table of Contents**
 
@@ -14,10 +24,22 @@ Certificates
 
 Contacts
 
+# About
+
+👋 Hello! Welcome to my GitHub profile!
+
+I'm passionate about data and its transformative power. Currently, I'm on a journey to become a skilled Data Analyst/Scientist/Engineer, and this GitHub serves as a platform to showcase my projects and progress.
+
+**🔍 Exploring the Data Universe:** From uncovering hidden patterns to deriving actionable insights, I dive deep into datasets to extract meaningful information. Whether it's analyzing movie ratings, investigating COVID-19 trends, or exploring financial datasets, I'm always eager to discover the stories behind the numbers.
+
+**💻 Building a Portfolio:** One project at a time, I'm building my portfolio as a Data Analyst/Scientist/Engineer. Each repository represents a step forward in my journey, showcasing my skills in data analysis, visualization, machine learning, and more.
+
+**📈 Driven by Curiosity:** Curiosity fuels my passion for data. I love asking questions, exploring hypotheses, and finding innovative ways to solve problems using data-driven approaches. Every project is an opportunity to learn something new and push the boundaries of my knowledge.
+
+**🚀 Onward and Upward:** My GitHub journey is just beginning, and I'm excited to see where it takes me. Whether you're a fellow data enthusiast, a potential collaborator, or someone interested in the world of data, I invite you to explore my projects and join me on this exciting adventure!
+
 # Portfolio Projects
 **Covid-19 Deaths & Vaccinations**
-
- Code:`COVID 19 SQLQuery1.sql`
  
  Goals
 + Analyze COVID-19 data to understand its impact on different regions and demographics.
@@ -47,8 +69,6 @@ Contacts
  
 **Analyzing Viewer and Critic Ratings of Hollywood's Most Profitable Movies**
 
-Code:
-
 Goals
 + Analyze the viewer and critic ratings of the most profitable movies in Hollywood.
 + Uncover insights into the ratings of these movies and their genres using the "Hollywood’s Most Profitable Stories Dataset."
@@ -68,8 +88,6 @@ Results
 + Renamed the sheet to "Top 10 Rated Films by Genre" for improved organization and clarity in presentation.
 
 **Sales Analysis for BikeStores**
-
-Code:
 
 Goals
 + Analyze sales data to gain insights into revenue generation, product performance, staff productivity, brand profitability, and customer behavior
@@ -101,8 +119,6 @@ Results
 
 **Analyzing Movie Ratings and Profitability**
 
-Code:
-
 Goals
 + Analyze the ratings and profitability of movies using Tableau Desktop.
 + Uncover valuable insights into the film industry by connecting to the "Hollywood’s Most Profitable Stories Dataset" and creating composite ratings
@@ -120,7 +136,31 @@ Results
 + Investigated the profitability of top-rated films by visualizing profitability data in a chart format in a new worksheet.
 + Utilized circle marks in the visualization to represent profitability for each movie.
 + Enhanced interactivity by enabling film selection in the visualization, allowing for further exploration.
-+ Renamed the sheet to "Movie Profitability" to provide clarity and organization in the project
++ Renamed the sheet to "Movie Profitability" to provide clarity and organization in the project.
+  
+**Analyzing Movie Ratings and Worldwide Gross**
+
+Goals
++ Analyze movie ratings and worldwide gross to gain insights into the film industry's performance and audience reception.
++ Connect to the "Hollywood’s Most Profitable Stories Dataset" using Tableau Desktop to extract relevant data for analysis.
++ Create composite ratings to understand the overall audience perception of movies based on their ratings.
++ Identify the movie with the highest worldwide gross to assess its financial performance and popularity.
+
+Skills
++ Data analysis using Tableau Desktop for extracting insights from complex datasets.
++ Creation of calculated fields to derive meaningful metrics for analysis.
++ Visualization techniques to present findings in an understandable and compelling manner.
++ Dataset connection and manipulation skills to perform comprehensive analysis.
++ Interpretation of financial and rating data to draw actionable insights.
+
+Results
++ Successfully connected to the "Hollywood’s Most Profitable Stories Dataset" and extracted relevant data for analysis.
++ Created composite ratings to understand the overall audience perception of movies.
++ Identified the movie with the highest worldwide gross, providing insights into financial performance.
++ Generated valuable insights into movie ratings and financial performance in the entertainment industry, facilitating informed decision-making processes.
+
+
+
 # Education
 National University of Lesotho, Bachelor of Arts In Economics With A Minor In Statistics, Aug 2017 - Aug 2022
 # Certificates
