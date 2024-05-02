@@ -24,6 +24,8 @@ Certificates
 
 Contacts
 
+Visualization
+
 # About
 
 👋 Hello! Welcome to my GitHub profile!
@@ -178,4 +180,7 @@ Cisco Networking Academy, Data Analytics Esssentials, Dec 2023
 ophoole@gmail.com
 
 www.linkedin.com/in/sempephoole
+
+# Visualization 
+https://github.com/SempeOnielPhoole/Data-Analyst-Scientist-Engineer-Portfolio.wiki.git
 
