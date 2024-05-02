@@ -85,7 +85,10 @@ Results
 + Created a calculated field named "Combined Rating" in Tableau by combining the Audience Score % and Rotten Tomatoes % to determine the overall rating of movies.
 + Identified the top 10 rated films by genre through filtering and sorting techniques in Tableau.
 + Enhanced visualization by adjusting bar colors and creating interactive marks for the "Film" field in the dashboard.
-+ Renamed the sheet to "Top 10 Rated Films by Genre" for improved organization and clarity in presentation.
++ Renamed the sheet to "Top 10 Rated Films by Genre" for improved organization and clarity in 
+
+Tableau Link
+https://public.tableau.com/views/Top10RatedFilmsbyGenre_17039569432780/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 **Sales Analysis for BikeStores**
 
