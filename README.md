@@ -142,6 +142,9 @@ Results
 + Utilized circle marks in the visualization to represent profitability for each movie.
 + Enhanced interactivity by enabling film selection in the visualization, allowing for further exploration.
 + Renamed the sheet to "Movie Profitability" to provide clarity and organization in the project.
+
+Tableau Link
+https://public.tableau.com/views/MovieProfitability_17077331189110/Sheet2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
   
 **Analyzing Movie Ratings and Worldwide Gross**
 
@@ -164,7 +167,8 @@ Results
 + Identified the movie with the highest worldwide gross, providing insights into financial performance.
 + Generated valuable insights into movie ratings and financial performance in the entertainment industry, facilitating informed decision-making processes.
 
-
+Tableau Link
+https://public.tableau.com/views/WorldwideGross_17077316495150/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 # Education
 National University of Lesotho, Bachelor of Arts In Economics With A Minor In Statistics, Aug 2017 - Aug 2022
