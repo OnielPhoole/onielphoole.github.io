@@ -186,5 +186,5 @@ ophoole@gmail.com
 www.linkedin.com/in/sempephoole
 
 # Visualization 
-https://github.com/SempeOnielPhoole/Data-Analyst-Scientist-Engineer-Portfolio.wiki.git
+ https://github.com/SempeOnielPhoole/Data-Analyst-Scientist-Engineer-Portfolio/wiki
 
