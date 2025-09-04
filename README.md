@@ -1,4 +1,4 @@
-# **Sempe Oniel Phoole Data Analyst/Scientist/Engineer Portfolio**
+# **Oniel Phoole Data Analyst/Scientist/Engineer Portfolio**
 
 👋 Hello! Welcome to my GitHub profile!
 
@@ -171,6 +171,9 @@ Tableau Link
 https://public.tableau.com/views/WorldwideGross_17077316495150/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 # Education
+
+National University of Lesotho, Master of Science in Economics, Aug 2024 - Aug 2026
+
 National University of Lesotho, Bachelor of Arts In Economics With A Minor In Statistics, Aug 2017 - Aug 2022
 # Certificates
 Great Learning Academy, Machine Learning Landscape, Apr 2024
@@ -183,7 +186,7 @@ Cisco Networking Academy, Data Analytics Esssentials, Dec 2023
 # Contacts
 ophoole@gmail.com
 
-www.linkedin.com/in/sempephoole
+www.linkedin.com/in/onielphoole
 
 # Visualization 
  https://github.com/SempeOnielPhoole/Data-Analyst-Scientist-Engineer-Portfolio/wiki
