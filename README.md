@@ -2,7 +2,7 @@
 
 👋 Hello! Welcome to my GitHub profile!
 
-I'm passionate about data and its transformative power. Currently, I'm on a journey to become a skilled Data Analyst/Scientist/Engineer, and this GitHub serves as a platform to showcase my projects and progress.
+I'm passionate about data and its transformative power. This GitHub serves as a platform to showcase my projects and progress as a Data Analyst/Scientist/Engineer.
 
 **🔍 Exploring the Data Universe:** From uncovering hidden patterns to deriving actionable insights, I dive deep into datasets to extract meaningful information. Whether it's analyzing movie ratings, investigating COVID-19 trends, or exploring financial datasets, I'm always eager to discover the stories behind the numbers.
 
@@ -30,7 +30,7 @@ Visualization
 
 👋 Hello! Welcome to my GitHub profile!
 
-I'm passionate about data and its transformative power. Currently, I'm on a journey to become a skilled Data Analyst/Scientist/Engineer, and this GitHub serves as a platform to showcase my projects and progress.
+I'm passionate about data and its transformative power. This GitHub serves as a platform to showcase my projects and progress as a Data Analyst/Scientist/Engineer.
 
 **🔍 Exploring the Data Universe:** From uncovering hidden patterns to deriving actionable insights, I dive deep into datasets to extract meaningful information. Whether it's analyzing movie ratings, investigating COVID-19 trends, or exploring financial datasets, I'm always eager to discover the stories behind the numbers.
 
